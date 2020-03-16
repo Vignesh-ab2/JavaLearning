@@ -12,5 +12,4 @@ public class Examples {
 		ex.display(1,"nm1");
 		ex.display(2, "namo");
 	}
-	
 }

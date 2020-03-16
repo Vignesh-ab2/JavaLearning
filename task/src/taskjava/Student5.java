@@ -20,9 +20,7 @@ public class Student5 {
 	    void display()
 	    {
 	    	System.out.println(id+" "+name+" "+age);
-	    	
 	    }  
-	   
 	    
 	    public static void main(String args[]){
 	    	
