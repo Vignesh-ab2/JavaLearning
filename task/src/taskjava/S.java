@@ -17,7 +17,6 @@ class lion extends Cat
 public class S {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		lion c=new lion();  
 		c.meow();  
 		c.eat();
