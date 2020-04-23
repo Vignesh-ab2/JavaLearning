@@ -3,7 +3,7 @@ package taskjava;
 public class staticExample {
 
 	
-		static int count=0;//will get memory only once and retain its value
+		static int count=0;
 
 		staticExample(){
 		count++;
