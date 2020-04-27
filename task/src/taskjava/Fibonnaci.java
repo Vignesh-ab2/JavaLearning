@@ -1,9 +1,9 @@
-package taskjava;
+  package taskjava;
 
 public class Fibonnaci {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 int n=10;
 int n1=0;
 int n2=1;
